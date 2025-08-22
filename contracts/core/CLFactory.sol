@@ -58,7 +58,7 @@ contract CLFactory is ICLFactory {
 
         enableTickSpacing(1, 100);
         enableTickSpacing(50, 500);
-        enableTickSpacing(100, 500);
+        enableTickSpacing(100, 600);
         enableTickSpacing(200, 3_000);
         enableTickSpacing(2_000, 10_000);
     }

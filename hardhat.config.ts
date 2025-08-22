@@ -26,7 +26,7 @@ export default {
       gasMultiplier: 1,
     },
     fluentTestnet: {
-      url: 'https://rpc.testnet.fluent.xyz/',
+      url: 'https://burned-muddy-butterfly.fluent-testnet.quiknode.pro/fa1e4509eebd04205834dc1a9cc2f8db4016822d/',
       chainId: 20994,
       accounts: [process.env.PRIVATE_KEY],
       gasPrice: 'auto',

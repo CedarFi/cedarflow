@@ -1,12 +1,12 @@
 {
-  "name": "@reactor-finance/concentrated-liquidity",
+  "name": "@cedarfi/concentrated-liquidity",
   "description": "Core smart contracts of CL",
   "license": "BUSL-1.1",
   "publishConfig": {
     "access": "public"
   },
   "version": "1.0.1",
-  "homepage": "https://reactorfi.xyz",
+  "homepage": "https://www.cedarfi.xyz",
   "keywords": [
     "uniswap",
     "core",
