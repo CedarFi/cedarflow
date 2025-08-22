@@ -25,6 +25,14 @@ export default {
       gas: 'auto',
       gasMultiplier: 1,
     },
+    fluentTestnet: {
+      url: 'https://rpc.testnet.fluent.xyz/',
+      chainId: 20994,
+      accounts: [process.env.PRIVATE_KEY],
+      gasPrice: 'auto',
+      gas: 'auto',
+      gasMultiplier: 1,
+    },
   },
   typechain: {
     target: 'ethers-v5',
